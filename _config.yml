@@ -5,7 +5,7 @@ description: 欢迎来到我的个人站~
 # 头像里面的标题
 avatarTitle: xspring
 # 头像里面的描述
-avatarDesc: iOS / 机器学习
+avatarDesc: 机器学习 / 计算机视觉
 url: "http://xspring14.github.io"
 
 # Comment
@@ -15,10 +15,10 @@ comment:
 
 # Social
 social:
-    weibo: 5366874726 
+    weibo: 3552135841 
     github: xspring
     # twitter: 
-    mail: leopardpan@icloud.com
+    mail: xu2010301@163.com
 
 # 百度统计 
 # 使用博客模板请去掉或者更换 id 
@@ -32,14 +32,6 @@ ga:
     host: auto  
 
 
-# 《----------------- 上面的信息修改成你自己的 ---------------------------》
-#
-#
-#  _post/ 下的文章更换成你自己的文章
-#  帮忙star一下，感谢~😆 地址： https://github.com/leopardpan/leopardpan.github.io
-#
-#
-# 《--------------- 下面的信息可以自行选择是否修改 ------------------------》
 
 
 permalink: /:year/:month/:title/
