@@ -140,7 +140,7 @@ xcrun: error: unable to lookup item 'PlatformPath' in SDK 'iphoneos'
 ```
 error: Xcode 7.3.0 or later is required.
 + exit 1
-```/
+​```/
 
 解决：更新Xcode至最新版本，并且保证默认路径下是最新/版本。
 
@@ -158,4 +158,6 @@ error: Xcode 7.3.0 or later is required.
 
 <br>
 
-转载请注明：[潘柏信的博客](http://baixin) » [点击阅读原文](http://baixin.io/2016/07/iOSMachineLearning_TensorFlow/)        
+转载自博客：http://leopardpan.github.io 谢谢！     
+
+```
